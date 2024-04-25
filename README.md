@@ -2,13 +2,13 @@
 This project was bootstrapped with [Vite](https://vitejs.dev/).
 
 ## Technologies Used
-###Frontend:
+## Frontend:
 - React.js: For building the user interface.
 - Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML .
 - Toastify: To display notifications and alerts.
 - React Router DOM: For managing navigation in the application.
 
-##Backend:
+## Backend:
 - Express: Web application framework for Node.js.
 - MongoDB: Database to store user credentials and session data.
 
