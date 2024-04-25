@@ -2,19 +2,19 @@
 This project was bootstrapped with [Vite](https://vitejs.dev/).
 
 ## Technologies Used
-## Frontend:
+### Frontend:
 - React.js: For building the user interface.
 - Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML .
 - Toastify: To display notifications and alerts.
 - React Router DOM: For managing navigation in the application.
 
-## Backend:
+### Backend:
 - Express: Web application framework for Node.js.
 - MongoDB: Database to store user credentials and session data.
 
 ## Project setup
 
-### server Setup
+## server Setup
 * Create a `.env` file at the server folder add your API Keys. `.env` Refer to for the environment variable names.
 
 *Configure MongoDB and JWT:
@@ -25,7 +25,7 @@ Create the .env file in the root directory with the following contents:
 `JWT_SECRET=`
 `MONGO_URI=`
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
 ```
 yarn
 yarn dev
